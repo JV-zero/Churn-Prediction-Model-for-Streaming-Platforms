@@ -1,6 +1,5 @@
 # Churn-Prediction-Model-for-Streaming-Platforms
 
-# Churn Prediction Model for a Streaming Platform
 
 ## Project Overview
 
